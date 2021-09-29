@@ -17,8 +17,8 @@ My research interests include knowledge graphs and few-shot learning on graphs.
 
 Publication
 ======
-**REFORM: Error-Aware Few-Shot Knowledge Graph Completion**
+**REFORM: Error-Aware Few-Shot Knowledge Graph Completion** [[PDF file]](https://songw-sw.github.io/REFORM.pdf)  [[Code]](https://github.com/SongW-SW/REFORM)<br>
+**Song Wang**, Xiao Huang, Chen Chen, Liang Wu and Jundong Li<br>
+CIKM 2021</p>
 
-**Song Wang**, Xiao Huang, Chen Chen, Liang Wu and Jundong Li
 
-CIKM 2021
