@@ -19,6 +19,6 @@ Publication
 ======
 **REFORM: Error-Aware Few-Shot Knowledge Graph Completion** [[PDF file]](https://songw-sw.github.io/REFORM.pdf)  [[Code]](https://github.com/SongW-SW/REFORM)<br>
 **Song Wang**, Xiao Huang, Chen Chen, Liang Wu and Jundong Li<br>
-CIKM 2021
+ACM International Conference on Information and Knowledge Management (CIKM), 2021.
 
 
