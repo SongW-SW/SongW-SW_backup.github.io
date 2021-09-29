@@ -4,8 +4,8 @@ I am currently a Ph.D. student at the Department of Electrical and Computer Engi
 
 
 #### Publication
-[pdf](https://songw-sw.github.io/REFORM.pdf)
-<p>REFORM: Error-Aware Few-Shot Knowledge Graph Completion </p>
+REFORM: Error-Aware Few-Shot Knowledge Graph Completion
+[The pdf file](https://songw-sw.github.io/REFORM.pdf)
 <p>Song Wang, Xiao Huang, Chen Chen, Liang Wu and Jundong Li</p>
 <p>CIKM 2021</p>
 
