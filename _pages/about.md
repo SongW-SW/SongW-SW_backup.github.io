@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. student at the Department of Electrical and Computer Engineering in University of Virginia, advised by Professor Jundong Li. And previously I received my B.E. in Electronic Engineering from Tsinghua University.
+I am currently a Ph.D. student at the Department of Electrical and Computer Engineering at the University of Virginia, advised by Professor Jundong Li. And previously I received my B.E. in Electronic Engineering from Tsinghua University.
 
 My research interests include knowledge graphs and few-shot learning on graphs.
 
