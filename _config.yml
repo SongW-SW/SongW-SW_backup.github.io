@@ -14,7 +14,7 @@ description              : &description "personal description"
 url                      : https://SongW-SW.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "SongW-SW/SongW-SW.github.io"
-teaser                   : "500x300.png"
+teaser                   : #"500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Song Wang"
-  avatar           : "profile.png"
+  avatar           : "photo.jpg"
   bio              : "Ph.D. Student at University of Virginia"
   location         : "Charlottesville, VA"
   employer         :
