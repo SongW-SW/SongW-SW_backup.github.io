@@ -25,6 +25,12 @@ International Joint Conference on Artificial Intelligence (IJCAI), 2022
 Yaqing Wang\*, **Song Wang\***, Yanyan Li, Dejing Dou. <br>
 ACM Special Interest Group in Information Retrieval (SIGIR), 2022
 
+
+**Hierarchical HeterogeneousGraph Representation Learning for Short Text Classification**<br>
+Yaqing Wang, **Song Wang**, Quanming Yao, Dejing Dou<br>
+Conference on Empirical Methods in Natural Language Processing (EMNLP), 2021
+
+
 **REFORM: Error-Aware Few-Shot Knowledge Graph Completion** [[PDF file]](https://songw-sw.github.io/REFORM.pdf)  [[Code]](https://github.com/SongW-SW/REFORM)<br>
 **Song Wang**, Xiao Huang, Chen Chen, Liang Wu, Jundong Li<br>
 ACM International Conference on Information and Knowledge Management (CIKM), 2021
