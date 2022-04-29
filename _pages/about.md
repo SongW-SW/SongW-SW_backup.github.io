@@ -18,11 +18,11 @@ My research interests include knowledge graphs and few-shot learning on graphs.
 Publication
 ======
 **REFORM: Error-Aware Few-Shot Knowledge Graph Completion** [[PDF file]](https://songw-sw.github.io/REFORM.pdf)  [[Code]](https://github.com/SongW-SW/REFORM)<br>
-**Song Wang**, Xiao Huang, Chen Chen, Liang Wu and Jundong Li<br>
+**Song Wang**, Xiao Huang, Chen Chen, Liang Wu, Jundong Li<br>
 ACM International Conference on Information and Knowledge Management (CIKM), 2021.
 
 
 
 **FAITH: Few-Shot Graph Classification with Hierarchical Task Graphs**<br>
 **Song Wang**, Yushun Dong, Xiao Huang, Chen Chen, Jundong Li <br>
-IJCAI 2022</p>
+International Joint Conference on Artificial Intelligence (IJCAI), 2022
