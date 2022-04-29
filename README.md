@@ -8,3 +8,7 @@ REFORM: Error-Aware Few-Shot Knowledge Graph Completion [[PDF file]](https://son
 Song Wang, Xiao Huang, Chen Chen, Liang Wu and Jundong Li<br>
 CIKM 2021</p>
 
+FAITH: Few-Shot
+Graph Classification with Hierarchical Task Graphs
+Song Wang, Yushun Dong, Xiao Huang, Chen Chen, Jundong Li. <br>
+IJCAI 2022</p>
