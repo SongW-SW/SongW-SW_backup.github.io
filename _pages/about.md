@@ -26,7 +26,7 @@ Yaqing Wang\*, **Song Wang\***, Yanyan Li, Dejing Dou. <br>
 ACM Special Interest Group in Information Retrieval (SIGIR), 2022
 
 
-**Hierarchical HeterogeneousGraph Representation Learning for Short Text Classification**<br>
+**Hierarchical Heterogeneous Graph Representation Learning for Short Text Classification**<br> [[PDF file]](https://arxiv.org/pdf/2111.00180.pdf) 
 Yaqing Wang, **Song Wang**, Quanming Yao, Dejing Dou<br>
 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2021
 
