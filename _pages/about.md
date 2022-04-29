@@ -22,7 +22,7 @@ Publication
 International Joint Conference on Artificial Intelligence (IJCAI), 2022
 
 **Recognizing Medical Search Query Intent by Few-shot Learning**<br>
-Yaqing Wang*, **Song Wang***, Yanyan Li, Dejing Dou. <br>
+Yaqing Wang\*, **Song Wang\***, Yanyan Li, Dejing Dou. <br>
 ACM Special Interest Group in Information Retrieval (SIGIR), 2022
 
 **REFORM: Error-Aware Few-Shot Knowledge Graph Completion** [[PDF file]](https://songw-sw.github.io/REFORM.pdf)  [[Code]](https://github.com/SongW-SW/REFORM)<br>
