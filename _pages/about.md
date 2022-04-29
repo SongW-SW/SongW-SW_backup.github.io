@@ -22,3 +22,7 @@ Publication
 ACM International Conference on Information and Knowledge Management (CIKM), 2021.
 
 
+
+**FAITH: Few-Shot Graph Classification with Hierarchical Task Graphs**<br>
+**Song Wang**, Yushun Dong, Xiao Huang, Chen Chen, Jundong Li <br>
+IJCAI 2022</p>
