@@ -21,8 +21,8 @@ Publication
 **Song Wang**, Kaize Ding, Chuxu Zhang, Chen Chen, Jundong Li <br>
 SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD), 2022
 
-**On Structural Explanation of Bias in Graph Neural Networks**<br>
-Yushun Dong, **Song Wang**, Jundong Li <br>
+**On Structural Explanation of Bias in Graph Neural Networks** [[PDF file]](https://arxiv.org/pdf/2206.12104.pdf) <br> 
+Yushun Dong, **Song Wang**, Yu Wang, Tyler Derr, Jundong Li <br>
 SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD), 2022
 
 **FAITH: Few-Shot Graph Classification with Hierarchical Task Graphs**<br>
