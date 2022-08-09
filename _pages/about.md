@@ -17,7 +17,7 @@ My research interests include knowledge graphs and few-shot learning on graphs.
 
 Publication
 ======
-**Task-Adaptive Few-shot Node Classification**<br>
+**Task-Adaptive Few-shot Node Classification**<br> [[PDF file]] (https://arxiv.org/pdf/2206.11972.pdf)|[Code](https://github.com/SongW-SW/TENT)
 **Song Wang**, Kaize Ding, Chuxu Zhang, Chen Chen, Jundong Li <br>
 SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD), 2022
 
@@ -25,7 +25,7 @@ SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD), 2022
 Yushun Dong, **Song Wang**, Yu Wang, Tyler Derr, Jundong Li <br>
 SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD), 2022
 
-**FAITH: Few-Shot Graph Classification with Hierarchical Task Graphs**<br>
+**FAITH: Few-Shot Graph Classification with Hierarchical Task Graphs**<br> [[PDF file]] (https://arxiv.org/pdf/2205.02435.pdf)|[Code](https://github.com/SongW-SW/FAITH)
 **Song Wang**, Yushun Dong, Xiao Huang, Chen Chen, Jundong Li <br>
 International Joint Conference on Artificial Intelligence (IJCAI), 2022
 
