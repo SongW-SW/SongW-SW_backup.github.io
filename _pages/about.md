@@ -17,6 +17,14 @@ My research interests include knowledge graphs and few-shot learning on graphs.
 
 Publication
 ======
+**Few-shot Node Classification with Extremely Weak Supervisio**<br> 
+**Song Wang**, Yushun Dong, Kaize Ding, Chen Chen, Jundong Li <br>
+ACM International Conference on Web Search and Data Mining  (WSDM), 2023
+
+**Graph Few-shot Learning with Task-specific Structures** [[PDF file]](https://arxiv.org/pdf/2210.12130.pdf) <br> 
+**Song Wang**, Chen Chen, Jundong Li <br>
+Conference on Neural Information Processing Systems (NeurIPS), 2022
+
 **Task-Adaptive Few-shot Node Classification** [[PDF file]](https://arxiv.org/pdf/2206.11972.pdf)  [[Code]](https://github.com/SongW-SW/TENT)<br> 
 **Song Wang**, Kaize Ding, Chuxu Zhang, Chen Chen, Jundong Li <br>
 SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD), 2022
