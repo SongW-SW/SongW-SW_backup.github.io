@@ -14,10 +14,10 @@ My research interests include knowledge graphs and few-shot learning on graphs.
 
 
 
-
+https://arxiv.org/pdf/2301.02708.pdf
 Publication
 ======
-**Few-shot Node Classification with Extremely Weak Supervisio**<br> 
+**Few-shot Node Classification with Extremely Weak Supervision** [[PDF file]](https://arxiv.org/pdf/2301.02708.pdf) <br> 
 **Song Wang**, Yushun Dong, Kaize Ding, Chen Chen, Jundong Li <br>
 ACM International Conference on Web Search and Data Mining  (WSDM), 2023
 
