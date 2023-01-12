@@ -14,7 +14,6 @@ My research interests include knowledge graphs and few-shot learning on graphs.
 
 
 
-https://arxiv.org/pdf/2301.02708.pdf
 Publication
 ======
 **Few-shot Node Classification with Extremely Weak Supervision** [[PDF file]](https://arxiv.org/pdf/2301.02708.pdf) <br> 
