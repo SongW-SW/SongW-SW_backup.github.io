@@ -20,6 +20,10 @@ Publication
 **Song Wang**, Yushun Dong, Kaize Ding, Chen Chen, Jundong Li <br>
 ACM International Conference on Web Search and Data Mining  (WSDM), 2023
 
+**Transductive Linear Probing: A Novel Framework for Few-Shot Node Classification** [[PDF file]](https://arxiv.org/pdf/2212.05606.pdf) <br>
+Zhen Tan\*, **Song Wang\***, Kaie Ding\*, Jundong Li, Huan Liu
+Learning on Graphs Conference (LoG), 2022
+
 **Graph Few-shot Learning with Task-specific Structures** [[PDF file]](https://arxiv.org/pdf/2210.12130.pdf) <br> 
 **Song Wang**, Chen Chen, Jundong Li <br>
 Conference on Neural Information Processing Systems (NeurIPS), 2022
