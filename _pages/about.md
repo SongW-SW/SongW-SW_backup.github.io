@@ -21,7 +21,7 @@ Publication
 ACM International Conference on Web Search and Data Mining  (WSDM), 2023
 
 **Interpreting Unfairness in Graph Neural Networks via Training Node Attribution** [[PDF file]](https://arxiv.org/pdf/2211.14383.pdf) <br> 
-Yushun Dong, **Song Wang**, Jing Ma, Ninghao Liu, Jundong Li
+Yushun Dong, **Song Wang**, Jing Ma, Ninghao Liu, Jundong Li <br>
  Association for the Advancement of Artificial Intelligence (AAAI), 2023
 
 **Transductive Linear Probing: A Novel Framework for Few-Shot Node Classification** [[PDF file]](https://arxiv.org/pdf/2212.05606.pdf) <br>
