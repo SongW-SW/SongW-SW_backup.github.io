@@ -21,7 +21,7 @@ Publication
 SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD), 2023
 
 **Contrastive Meta-Learning for Few-shot Node Classification** <br>
-**Song Wang\***, Zhen Tan, Huan liu, Jundong Li <br>
+**Song Wang\***, Zhen Tan\*, Huan liu, Jundong Li <br>
 SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD), 2023
 
 **Fairness in graph mining: A survey** [[PDF file]](https://arxiv.org/pdf/2204.09888.pdf) <br> 
