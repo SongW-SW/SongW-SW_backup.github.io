@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently a Ph.D. student at the Department of Electrical and Computer Engineering at the University of Virginia, advised by Professor Jundong Li. And previously I received my B.E. in Electronic Engineering from Tsinghua University.
 
-My research interests include knowledge graphs and few-shot learning on graphs.
+My research interests include robustness, fairness, and expainability problems on multiple types of data, including graphs and knowledge graphs, and texts.
 
 
 
