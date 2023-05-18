@@ -16,6 +16,18 @@ My research interests include knowledge graphs and few-shot learning on graphs.
 
 Publication
 ======
+**Federated Few-shot Learning** <br>
+**Song Wang**, Xingbo Fu, Kaize Ding, Chen Chen, Huiyuan Chen, Jundong Li
+SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD), 2023
+
+**Contrastive Meta-Learning for Few-shot Node Classification** <br>
+**Song Wang\***, Zhen Tan, Huan liu, Jundong Li
+SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD), 2023
+
+**Fairness in graph mining: A survey** [[PDF file]](https://arxiv.org/pdf/2204.09888.pdf) <br> 
+Yushun Dong, Jing Ma, **Song Wang**, Chen Chen, Jundong Li <br>
+IEEE Transactions on Knowledge and Data Engineering (TKDE), 2023
+
 **Few-shot Node Classification with Extremely Weak Supervision** [[PDF file]](https://arxiv.org/pdf/2301.02708.pdf) <br> 
 **Song Wang**, Yushun Dong, Kaize Ding, Chen Chen, Jundong Li <br>
 ACM International Conference on Web Search and Data Mining  (WSDM), 2023
