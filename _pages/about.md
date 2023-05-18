@@ -38,7 +38,7 @@ Yushun Dong, **Song Wang**, Jing Ma, Ninghao Liu, Jundong Li <br>
 
 **Transductive Linear Probing: A Novel Framework for Few-Shot Node Classification** [[PDF file]](https://arxiv.org/pdf/2212.05606.pdf) <br>
 Zhen Tan\*, **Song Wang\***, Kaie Ding\*, Jundong Li, Huan Liu <br>
-Learning on Graphs Conference (LoG), 2022
+Learning on Graphs Conference (LoG) Oral Spotlight, 2022
 
 **Graph Few-shot Learning with Task-specific Structures** [[PDF file]](https://arxiv.org/pdf/2210.12130.pdf) <br> 
 **Song Wang**, Chen Chen, Jundong Li <br>
