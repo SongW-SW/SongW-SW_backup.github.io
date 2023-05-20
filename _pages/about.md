@@ -18,11 +18,11 @@ Publication
 ======
 **Federated Few-shot Learning** <br>
 **Song Wang**, Xingbo Fu, Kaize Ding, Chen Chen, Huiyuan Chen, Jundong Li <br>
-SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD), 2023
+ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD), 2023
 
 **Contrastive Meta-Learning for Few-shot Node Classification** <br>
 **Song Wang\***, Zhen Tan\*, Huan Liu, Jundong Li <br>
-SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD), 2023
+ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD), 2023
 
 **Fairness in graph mining: A survey** [[PDF file]](https://arxiv.org/pdf/2204.09888.pdf) <br> 
 Yushun Dong, Jing Ma, **Song Wang**, Chen Chen, Jundong Li <br>
@@ -34,7 +34,7 @@ ACM International Conference on Web Search and Data Mining  (WSDM), 2023
 
 **Interpreting Unfairness in Graph Neural Networks via Training Node Attribution** [[PDF file]](https://arxiv.org/pdf/2211.14383.pdf) <br> 
 Yushun Dong, **Song Wang**, Jing Ma, Ninghao Liu, Jundong Li <br>
- Association for the Advancement of Artificial Intelligence (AAAI), 2023
+Association for the Advancement of Artificial Intelligence (AAAI), 2023
 
 **Transductive Linear Probing: A Novel Framework for Few-Shot Node Classification** [[PDF file]](https://arxiv.org/pdf/2212.05606.pdf) <br>
 Zhen Tan\*, **Song Wang\***, Kaie Ding\*, Jundong Li, Huan Liu <br>
@@ -46,11 +46,11 @@ Conference on Neural Information Processing Systems (NeurIPS), 2022
 
 **Task-Adaptive Few-shot Node Classification** [[PDF file]](https://arxiv.org/pdf/2206.11972.pdf)  [[Code]](https://github.com/SongW-SW/TENT)<br> 
 **Song Wang**, Kaize Ding, Chuxu Zhang, Chen Chen, Jundong Li <br>
-SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD), 2022
+ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD), 2022
 
 **On Structural Explanation of Bias in Graph Neural Networks** [[PDF file]](https://arxiv.org/pdf/2206.12104.pdf) <br> 
 Yushun Dong, **Song Wang**, Yu Wang, Tyler Derr, Jundong Li <br>
-SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD), 2022
+ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD), 2022
 
 **FAITH: Few-Shot Graph Classification with Hierarchical Task Graphs** [[PDF file]](https://arxiv.org/pdf/2205.02435.pdf)  [[Code]](https://github.com/SongW-SW/FAITH)<br> 
 **Song Wang**, Yushun Dong, Xiao Huang, Chen Chen, Jundong Li <br>
