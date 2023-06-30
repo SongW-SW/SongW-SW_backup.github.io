@@ -16,11 +16,11 @@ My research interests expand to encompass robustness, fairness, and explainabili
 
 Publication
 ======
-**Federated Few-shot Learning** <br>
+**Federated Few-shot Learning** [[PDF file]](https://arxiv.org/pdf/2306.10234.pdf) <br>
 **Song Wang**, Xingbo Fu, Kaize Ding, Chen Chen, Huiyuan Chen, Jundong Li <br>
 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD), 2023
 
-**Contrastive Meta-Learning for Few-shot Node Classification** <br>
+**Contrastive Meta-Learning for Few-shot Node Classification** [[PDF file]](https://arxiv.org/pdf/2306.15154.pdf) <br>
 **Song Wang\***, Zhen Tan\*, Huan Liu, Jundong Li <br>
 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD), 2023
 
