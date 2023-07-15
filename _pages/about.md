@@ -20,57 +20,56 @@ Publication
 **Song Wang**, Jing Ma, Lu Cheng, Jundong Li <br>
 European Conference on Artificial Intelligence (ECAI), 2023
 
-**Federated Few-shot Learning** [[PDF file]](https://arxiv.org/pdf/2306.10234.pdf) <br>
+***Federated Few-shot Learning*** [[PDF file]](https://arxiv.org/pdf/2306.10234.pdf) <br>
 **Song Wang**, Xingbo Fu, Kaize Ding, Chen Chen, Huiyuan Chen, Jundong Li <br>
 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD), 2023
 
-**Contrastive Meta-Learning for Few-shot Node Classification** [[PDF file]](https://arxiv.org/pdf/2306.15154.pdf) <br>
+***Contrastive Meta-Learning for Few-shot Node Classification*** [[PDF file]](https://arxiv.org/pdf/2306.15154.pdf) <br>
 **Song Wang\***, Zhen Tan\*, Huan Liu, Jundong Li <br>
 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD), 2023
 
-**Fairness in graph mining: A survey** [[PDF file]](https://arxiv.org/pdf/2204.09888.pdf) <br> 
+***Fairness in graph mining: A survey*** [[PDF file]](https://arxiv.org/pdf/2204.09888.pdf) <br> 
 Yushun Dong, Jing Ma, **Song Wang**, Chen Chen, Jundong Li <br>
 IEEE Transactions on Knowledge and Data Engineering (TKDE), 2023
 
-**Few-shot Node Classification with Extremely Weak Supervision** [[PDF file]](https://arxiv.org/pdf/2301.02708.pdf) <br> 
+***Few-shot Node Classification with Extremely Weak Supervision*** [[PDF file]](https://arxiv.org/pdf/2301.02708.pdf) <br> 
 **Song Wang**, Yushun Dong, Kaize Ding, Chen Chen, Jundong Li <br>
 ACM International Conference on Web Search and Data Mining  (WSDM), 2023
 
-**Interpreting Unfairness in Graph Neural Networks via Training Node Attribution** [[PDF file]](https://arxiv.org/pdf/2211.14383.pdf) <br> 
+***Interpreting Unfairness in Graph Neural Networks via Training Node Attribution*** [[PDF file]](https://arxiv.org/pdf/2211.14383.pdf) <br> 
 Yushun Dong, **Song Wang**, Jing Ma, Ninghao Liu, Jundong Li <br>
 Association for the Advancement of Artificial Intelligence (AAAI), 2023
 
-**Transductive Linear Probing: A Novel Framework for Few-Shot Node Classification** [[PDF file]](https://arxiv.org/pdf/2212.05606.pdf) <br>
+***Transductive Linear Probing: A Novel Framework for Few-Shot Node Classification*** [[PDF file]](https://arxiv.org/pdf/2212.05606.pdf) <br>
 Zhen Tan\*, **Song Wang\***, Kaie Ding\*, Jundong Li, Huan Liu <br>
 Learning on Graphs Conference (LoG) Oral Spotlight, 2022
 
-**Graph Few-shot Learning with Task-specific Structures** [[PDF file]](https://arxiv.org/pdf/2210.12130.pdf) <br> 
+***Graph Few-shot Learning with Task-specific Structures*** [[PDF file]](https://arxiv.org/pdf/2210.12130.pdf) <br> 
 **Song Wang**, Chen Chen, Jundong Li <br>
 Conference on Neural Information Processing Systems (NeurIPS), 2022
 
-**Task-Adaptive Few-shot Node Classification** [[PDF file]](https://arxiv.org/pdf/2206.11972.pdf)  [[Code]](https://github.com/SongW-SW/TENT)<br> 
+***Task-Adaptive Few-shot Node Classification*** [[PDF file]](https://arxiv.org/pdf/2206.11972.pdf)  [[Code]](https://github.com/SongW-SW/TENT) <br> 
 **Song Wang**, Kaize Ding, Chuxu Zhang, Chen Chen, Jundong Li <br>
 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD), 2022
 
-**On Structural Explanation of Bias in Graph Neural Networks** [[PDF file]](https://arxiv.org/pdf/2206.12104.pdf) <br> 
+***On Structural Explanation of Bias in Graph Neural Networks*** [[PDF file]](https://arxiv.org/pdf/2206.12104.pdf) <br> 
 Yushun Dong, **Song Wang**, Yu Wang, Tyler Derr, Jundong Li <br>
 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD), 2022
 
-**FAITH: Few-Shot Graph Classification with Hierarchical Task Graphs** [[PDF file]](https://arxiv.org/pdf/2205.02435.pdf)  [[Code]](https://github.com/SongW-SW/FAITH)<br> 
+***FAITH: Few-Shot Graph Classification with Hierarchical Task Graphs*** [[PDF file]](https://arxiv.org/pdf/2205.02435.pdf)  [[Code]](https://github.com/SongW-SW/FAITH) <br> 
 **Song Wang**, Yushun Dong, Xiao Huang, Chen Chen, Jundong Li <br>
 International Joint Conference on Artificial Intelligence (IJCAI), 2022
 
-**Recognizing Medical Search Query Intent by Few-shot Learning**<br>
-Yaqing Wang\*, **Song Wang\***, Yanyan Li, Dejing Dou. <br>
+***Recognizing Medical Search Query Intent by Few-shot Learning*** <br>
+Yaqing Wang\*, **Song Wang\***, Yanyan Li, Dejing Dou <br>
 ACM Special Interest Group in Information Retrieval (SIGIR), 2022
 
-**Hierarchical Heterogeneous Graph Representation Learning for Short Text Classification** [[PDF file]](https://arxiv.org/pdf/2111.00180.pdf) <br>
+***Hierarchical Heterogeneous Graph Representation Learning for Short Text Classification*** [[PDF file]](https://arxiv.org/pdf/2111.00180.pdf) <br>
 Yaqing Wang, **Song Wang**, Quanming Yao, Dejing Dou<br>
 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2021
 
-
-**REFORM: Error-Aware Few-Shot Knowledge Graph Completion** [[PDF file]](https://songw-sw.github.io/REFORM.pdf)  [[Code]](https://github.com/SongW-SW/REFORM)<br>
-**Song Wang**, Xiao Huang, Chen Chen, Liang Wu, Jundong Li<br>
+***REFORM: Error-Aware Few-Shot Knowledge Graph Completion*** [[PDF file]](https://songw-sw.github.io/REFORM.pdf)  [[Code]](https://github.com/SongW-SW/REFORM) <br>
+**Song Wang**, Xiao Huang, Chen Chen, Liang Wu, Jundong Li <br>
 ACM International Conference on Information and Knowledge Management (CIKM), 2021
 
 
