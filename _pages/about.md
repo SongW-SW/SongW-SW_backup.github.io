@@ -16,7 +16,7 @@ My research interests expand to encompass efficient, robust, fair, and explainab
 
 Publication
 ======
-**Fair Few-shot learning with Auxiliary Sets** <br>
+*Fair Few-shot learning with Auxiliary Sets* <br>
 **Song Wang**, Jing Ma, Lu Cheng, Jundong Li <br>
 European Conference on Artificial Intelligence (ECAI), 2023
 
