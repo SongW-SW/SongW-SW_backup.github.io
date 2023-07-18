@@ -46,7 +46,7 @@ Learning on Graphs Conference (LoG) Oral Spotlight, 2022
 
 ***Graph Few-shot Learning with Task-specific Structures*** [[PDF file]](https://arxiv.org/pdf/2210.12130.pdf) <br> 
 **Song Wang**, Chen Chen, Jundong Li <br>
-Conference on Neural Information Processing Systems (NeurIPS), 2022
+Advances in Neural Information Processing Systems (NeurIPS), 2022
 
 ***Task-Adaptive Few-shot Node Classification*** [[PDF file]](https://arxiv.org/pdf/2206.11972.pdf)  [[Code]](https://github.com/SongW-SW/TENT) <br> 
 **Song Wang**, Kaize Ding, Chuxu Zhang, Chen Chen, Jundong Li <br>
