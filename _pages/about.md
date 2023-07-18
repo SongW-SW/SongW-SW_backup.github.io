@@ -28,7 +28,7 @@ ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD), 2023
 **Song Wang\***, Zhen Tan\*, Huan Liu, Jundong Li <br>
 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD), 2023
 
-***Fairness in graph mining: A survey*** [[PDF file]](https://arxiv.org/pdf/2204.09888.pdf) <br> 
+***Fairness in Graph Mining: A Survey*** [[PDF file]](https://arxiv.org/pdf/2204.09888.pdf) <br> 
 Yushun Dong, Jing Ma, **Song Wang**, Chen Chen, Jundong Li <br>
 IEEE Transactions on Knowledge and Data Engineering (TKDE), 2023
 
