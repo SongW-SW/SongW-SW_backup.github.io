@@ -16,6 +16,10 @@ My research interests expand to encompass efficient, robust, fair, and explainab
 
 Publication
 ======
+***Noise-Robust Fine-Tuning of Pretrained Language Models via External Guidance*** <br>
+**Song Wang**, Zhen Tan, Ruocheng Guo, Jundong Li <br>
+Conference on Empirical Methods in Natural Language Processing (EMNLP Findings), 2023
+
 ***Fair Few-shot Learning with Auxiliary Sets*** <br>
 **Song Wang**, Jing Ma, Lu Cheng, Jundong Li <br>
 European Conference on Artificial Intelligence (ECAI), 2023
