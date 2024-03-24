@@ -16,6 +16,36 @@ My research interests expand to encompass efficient, robust, fair, and explainab
 
 Publication
 ======
+
+***Large Language Models for Data Annotation: A Survey*** [[PDF file]](https://arxiv.org/abs/2402.13446) <br>
+Zhen Tan, Alimohammad Beigi, **Song Wang**, Ruocheng Guo, Amrita Bhattacharjee, Bohan Jiang, Mansooreh Karami, Jundong Li, Lu Cheng, Huan Liu <br>
+Arxiv, 2024
+
+***Few-shot Knowledge Graph Relational Reasoning via Subgraph Adaptation*** <br>
+Haochen Liu, **Song Wang**, Chen Chen, Jundong Li <br>
+Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), 2024
+
+***Learning Hierarchical Task Structures for Few-shot Graph Classification*** [[PDF file]](https://dl.acm.org/doi/full/10.1145/3635473) <br>
+**Song Wang**, Yushun Dong, Xiao Huang, Chen Chen, Jundong Li <br>
+ACM Transactions on Knowledge Discovery from Data (TKDD), 2024
+
+***PyGDebias: A Python Library for Debiasing in Graph Learning*** <br>
+Yushun Dong, Zhenyu Lei, Zaiyi Zheng, **Song Wang**, Jing Ma, Alex Jing Huang, Chen Chen and Jundong Li <br>
+The Web Conference (WWW) Demo Track, 2024
+
+***Interpreting Pretrained Language Models via Concept Bottlenecks*** <br>
+Zhen Tan, Lu Cheng, **Song Wang**, Bo Yuan, Jundong Li, Huan Liu <br>
+The Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), 2024
+
+***Knowledge Editing for Large Language Models: A Survey*** [[PDF file]](https://arxiv.org/abs/2310.16218v3) <br>
+**Song Wang**, Yaochen Zhu, Haochen Liu, Zaiyi Zheng, Chen Chen, Jundong Li
+Arxiv, 2023
+
+***Generative Few-shot Graph Classification: An Adaptive Perspective***  <br>
+**Song Wang**, Jundong Li, <br>
+The Asilomar Conference on Signals, Systems, and Computers, 2023
+
+
 ***Noise-Robust Fine-Tuning of Pretrained Language Models via External Guidance*** <br>
 **Song Wang**, Zhen Tan, Ruocheng Guo, Jundong Li <br>
 Conference on Empirical Methods in Natural Language Processing (EMNLP Findings), 2023
