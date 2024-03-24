@@ -38,7 +38,7 @@ Zhen Tan, Lu Cheng, **Song Wang**, Bo Yuan, Jundong Li, Huan Liu <br>
 The Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), 2024
 
 ***Knowledge Editing for Large Language Models: A Survey*** [[PDF file]](https://arxiv.org/abs/2310.16218v3) <br>
-**Song Wang**, Yaochen Zhu, Haochen Liu, Zaiyi Zheng, Chen Chen, Jundong Li
+**Song Wang**, Yaochen Zhu, Haochen Liu, Zaiyi Zheng, Chen Chen, Jundong Li <br>
 Arxiv, 2023
 
 ***Generative Few-shot Graph Classification: An Adaptive Perspective***  <br>
