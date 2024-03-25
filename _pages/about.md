@@ -19,7 +19,7 @@ Publication
 
 ***Graph Learning for Particle Accelerator Operations*** <br>
 **Song Wang**, Chris Tennant, Daniel Moser, Theo Larrieu, Jundong Li <br>
-Frontiers in Big Data, Section Data Mining and Management， 2024
+Frontiers in Big Data, Section Data Mining and Management, 2024
 
 ***Large Language Models for Data Annotation: A Survey*** [[PDF file]](https://arxiv.org/abs/2402.13446) <br>
 Zhen Tan, Alimohammad Beigi, **Song Wang**, Ruocheng Guo, Amrita Bhattacharjee, Bohan Jiang, Mansooreh Karami, Jundong Li, Lu Cheng, Huan Liu <br>
