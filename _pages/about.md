@@ -88,7 +88,8 @@ The Web Conference (WWW) Demo Track, 2024
 
 ***Interpreting Pretrained Language Models via Concept Bottlenecks*** <br>
 Zhen Tan, Lu Cheng, **Song Wang**, Bo Yuan, Jundong Li, Huan Liu <br>
-The Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), 2024
+The Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), 2024 <br>
+<span style="color: red;">**Best Paper Award**</span>
 
 ---
 
