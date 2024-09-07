@@ -36,6 +36,13 @@ ACM International Conference on Information and Knowledge Management (CIKM) Appl
 
 ---
 
+***Interpreting Pretrained Language Models via Concept Bottlenecks*** <br>
+Zhen Tan, Lu Cheng, **Song Wang**, Bo Yuan, Jundong Li, Huan Liu <br>
+The Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), 2024 <br>
+<span style="color: red;">**Best Paper Award**</span>
+
+---
+
 ***Knowledge Graph-Enhanced Large Language Models via Path Selection*** <br>
 Haochen Liu, **Song Wang**, Yaochen Zhu, Yushun Dong, Jundong Li <br>
 ACL 2024 Findings, 2024
@@ -85,13 +92,6 @@ The Web Conference (WWW) Demo Track, 2024
 
 ---
 
-
-***Interpreting Pretrained Language Models via Concept Bottlenecks*** <br>
-Zhen Tan, Lu Cheng, **Song Wang**, Bo Yuan, Jundong Li, Huan Liu <br>
-The Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), 2024 <br>
-<span style="color: red;">**Best Paper Award**</span>
-
----
 
 
 ***Knowledge Editing for Large Language Models: A Survey*** [[PDF file]](https://arxiv.org/abs/2310.16218v3) <br>
