@@ -25,7 +25,7 @@ IEEE International Conference on Data Mining (ICDM), 2024
 ---
 
 ***CEB: Compositional Evaluation Benchmark for Fairness in Large Language Models***  [[PDF file]](https://arxiv.org/pdf/2407.02408) <br>
-**Song Wang**, Peng Wang, Tong Zhou, Yushun Dong, Zhen Tan, Jundong Li <br>
+**Song Wang***, Peng Wang*, Tong Zhou, Yushun Dong, Zhen Tan, Jundong Li <br>
 Arxiv, 2024
 
 ---
