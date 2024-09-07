@@ -17,9 +17,13 @@ My research interests expand to encompass trustworthy solutions across various t
 Publication
 ======
 
+2024
+---
+
 ***Enhancing Distribution and Label Consistency for Graph Out-of-Distribution Generalization*** <br>
 **Song Wang**, Xiaodong Yang, Rashidul Islam, Huiyuan Chen, Minghua Xu, Jundong Li, Yiwei Cai <br>
 IEEE International Conference on Data Mining (ICDM), 2024
+
 
 
 ---
@@ -93,6 +97,10 @@ The Web Conference (WWW) Demo Track, 2024
 ---
 
 
+2023
+---
+
+
 
 ***Knowledge Editing for Large Language Models: A Survey*** [[PDF file]](https://arxiv.org/abs/2310.16218v3) <br>
 **Song Wang**, Yaochen Zhu, Haochen Liu, Zaiyi Zheng, Chen Chen, Jundong Li <br>
@@ -157,6 +165,10 @@ Association for the Advancement of Artificial Intelligence (AAAI), 2023
 
 ---
 
+2022
+---
+
+
 
 ***Transductive Linear Probing: A Novel Framework for Few-Shot Node Classification*** [[PDF file]](https://arxiv.org/pdf/2212.05606.pdf) <br>
 Zhen Tan\*, **Song Wang\***, Kaie Ding\*, Jundong Li, Huan Liu <br>
@@ -198,6 +210,10 @@ Yaqing Wang\*, **Song Wang\***, Yanyan Li, Dejing Dou <br>
 ACM Special Interest Group in Information Retrieval (SIGIR), 2022
 
 ---
+
+2021
+---
+
 
 
 ***Hierarchical Heterogeneous Graph Representation Learning for Short Text Classification*** [[PDF file]](https://arxiv.org/pdf/2111.00180.pdf) <br>
