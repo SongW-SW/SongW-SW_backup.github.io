@@ -32,7 +32,7 @@ Arxiv, 2024
 
 ***Understanding and Modeling Job Marketplace with Pretrained Language Models*** <br>
 Yaochen Zhu, Liang Wu, Binchi Zhang, **Song Wang**, Qi Guo, Liangjie Hong, Luke Simon, Jundong Li <br>
-Applied Research Papers Track at ACM International Conference on Information and Knowledge Management (CIKM), 2024
+ACM International Conference on Information and Knowledge Management (CIKM) Applied Research Track, 2024
 
 ---
 
