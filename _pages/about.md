@@ -20,6 +20,13 @@ Publication
 2024
 ---
 
+
+***Knowledge Editing for Large Language Models: A Survey*** [[PDF file]](https://arxiv.org/abs/2310.16218v3) <br>
+**Song Wang**, Yaochen Zhu, Haochen Liu, Zaiyi Zheng, Chen Chen, Jundong Li <br>
+ACM Computing Surveys, 2024
+
+---
+
 ***Enhancing Distribution and Label Consistency for Graph Out-of-Distribution Generalization*** <br>
 **Song Wang**, Xiaodong Yang, Rashidul Islam, Huiyuan Chen, Minghua Xu, Jundong Li, Yiwei Cai <br>
 IEEE International Conference on Data Mining (ICDM), 2024
@@ -100,13 +107,6 @@ The Web Conference (WWW) Demo Track, 2024
 2023
 ---
 
-
-
-***Knowledge Editing for Large Language Models: A Survey*** [[PDF file]](https://arxiv.org/abs/2310.16218v3) <br>
-**Song Wang**, Yaochen Zhu, Haochen Liu, Zaiyi Zheng, Chen Chen, Jundong Li <br>
-Arxiv, 2023
-
----
 
 
 ***Generative Few-shot Graph Classification: An Adaptive Perspective***  <br>
