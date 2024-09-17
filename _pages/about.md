@@ -65,6 +65,11 @@ Zihan Chen, **Song Wang**, Cong Shen, Jundong Li <br>
 ACL 2024 Findings, 2024
 
 
+---
+
+***A Benchmark for Fairness-Aware Graph Learning*** <br>
+Yushun Dong, **Song Wang**, Zhenyu Lei, Zaiyi Zheng, Jing Ma, Chen Chen, Jundong Li <br>
+Arxiv, 2024
 
 ---
 
