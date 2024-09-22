@@ -53,7 +53,7 @@ Arxiv, 2024
 
 ***Understanding and Modeling Job Marketplace with Pretrained Language Models*** <br>
 Yaochen Zhu, Liang Wu, Binchi Zhang, **Song Wang**, Qi Guo, Liangjie Hong, Luke Simon, Jundong Li <br>
-ACM International Conference on Information and Knowledge Management (CIKM) Applied Research Track, 2024
+CIKM Applied Research Track, 2024
 
 ---
 
@@ -91,7 +91,7 @@ Frontiers in Big Data, Section Data Mining and Management, 2024
 
 ***Few-shot Knowledge Graph Relational Reasoning via Subgraph Adaptation*** <br>
 Haochen Liu, **Song Wang**, Chen Chen, Jundong Li <br>
-Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), 2024
+NAACL, 2024
 
 ---
 
@@ -125,7 +125,7 @@ The Asilomar Conference on Signals, Systems, and Computers, 2023
 
 ***Noise-Robust Fine-Tuning of Pretrained Language Models via External Guidance*** <br>
 **Song Wang**, Zhen Tan, Ruocheng Guo, Jundong Li <br>
-Conference on Empirical Methods in Natural Language Processing (EMNLP Findings), 2023
+EMNLP Findings, 2023
 
 ---
 
