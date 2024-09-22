@@ -34,7 +34,7 @@ IEEE International Conference on Data Mining (ICDM), 2024
 ---
 
 ***"Glue pizza and eat rocks" - Exploiting Vulnerabilities in Retrieval-Augmented Generative Models*** <br>
-Zhen Tan, Dawei Li, **Song Wang**, Alimohammad Beigi, Bohan Jiang, Amrita Bhattacharjee, Mansooreh Karami, Jundong Li, Lu Cheng, Huan Liu <br>
+Zhen Tan, Chengshuai Zhao, Raha Moraffah, Yifan Li, **Song Wang**, Jundong Li, Tianlong Chen, Huan Liu <br>
 EMNLP Main, 2024
 
 ---
