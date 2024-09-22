@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Song Wang / Ph.D. Student"
 title_separator          : "-"
-name                     : &name "Song Wang"
+name                     : &name "Song Wang (王淞)"
 description              : &description "personal description"
 url                      : https://SongW-SW.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
