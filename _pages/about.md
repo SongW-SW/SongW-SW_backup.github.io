@@ -31,7 +31,17 @@ ACM Computing Surveys, 2024
 **Song Wang**, Xiaodong Yang, Rashidul Islam, Huiyuan Chen, Minghua Xu, Jundong Li, Yiwei Cai <br>
 IEEE International Conference on Data Mining (ICDM), 2024
 
+---
 
+***"Glue pizza and eat rocks" - Exploiting Vulnerabilities in Retrieval-Augmented Generative Models*** <br>
+Zhen Tan, Dawei Li, **Song Wang**, Alimohammad Beigi, Bohan Jiang, Amrita Bhattacharjee, Mansooreh Karami, Jundong Li, Lu Cheng, Huan Liu <br>
+EMNLP Main, 2024
+
+---
+
+***Large Language Models for Data Annotation: A Survey*** [[PDF file]](https://arxiv.org/abs/2402.13446) <br>
+Zhen Tan\*, Dawei Li\*, **Song Wang\***, Alimohammad Beigi, Bohan Jiang, Amrita Bhattacharjee, Mansooreh Karami, Jundong Li, Lu Cheng, Huan Liu <br>
+EMNLP Main, 2024
 
 ---
 
@@ -73,20 +83,11 @@ Arxiv, 2024
 
 ---
 
-
 ***Graph Learning for Particle Accelerator Operations*** <br>
 **Song Wang**, Chris Tennant, Daniel Moser, Theo Larrieu, Jundong Li <br>
 Frontiers in Big Data, Section Data Mining and Management, 2024
 
 ---
-
-
-***Large Language Models for Data Annotation: A Survey*** [[PDF file]](https://arxiv.org/abs/2402.13446) <br>
-Zhen Tan*, Alimohammad Beigi*, **Song Wang***, Ruocheng Guo, Amrita Bhattacharjee, Bohan Jiang, Mansooreh Karami, Jundong Li, Lu Cheng, Huan Liu <br>
-Arxiv, 2024
-
----
-
 
 ***Few-shot Knowledge Graph Relational Reasoning via Subgraph Adaptation*** <br>
 Haochen Liu, **Song Wang**, Chen Chen, Jundong Li <br>
