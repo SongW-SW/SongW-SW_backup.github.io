@@ -20,6 +20,12 @@ Publication
 2024
 ---
 
+***Mixture of Demonstrations for In-Context Learning*** <br>
+**Song Wang\***, Zihan Chen\*, Chengshuai Shi, Cong Shen, Jundong Li <br>
+NeurIPS, 2024
+
+---
+
 
 ***Knowledge Editing for Large Language Models: A Survey*** [[PDF file]](https://arxiv.org/abs/2310.16218v3) <br>
 **Song Wang**, Yaochen Zhu, Haochen Liu, Zaiyi Zheng, Chen Chen, Jundong Li <br>
