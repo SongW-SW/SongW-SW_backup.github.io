@@ -27,7 +27,7 @@ NeurIPS, 2024
 ---
 
 
-***Knowledge Editing for Large Language Models: A Survey*** [[PDF file]](https://arxiv.org/abs/2310.16218v3) <br>
+***Knowledge Editing for Large Language Models: A Survey*** [[PDF file]](https://arxiv.org/abs/2310.16218v4) <br>
 **Song Wang**, Yaochen Zhu, Haochen Liu, Zaiyi Zheng, Chen Chen, Jundong Li <br>
 ACM Computing Surveys, 2024
 
