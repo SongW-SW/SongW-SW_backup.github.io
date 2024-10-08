@@ -39,6 +39,12 @@ IEEE International Conference on Data Mining (ICDM), 2024
 
 ---
 
+***"Federated Graph Learning with Graphless Clients*** <br>
+Xingbo Fu, **Song Wang**, Yushun Dong, Binchi Zhang, Chen Chen, Jundong Li <br>
+TMLR, 2024
+
+---
+
 ***"Glue pizza and eat rocks" - Exploiting Vulnerabilities in Retrieval-Augmented Generative Models*** <br>
 Zhen Tan, Chengshuai Zhao, Raha Moraffah, Yifan Li, **Song Wang**, Jundong Li, Tianlong Chen, Huan Liu <br>
 EMNLP Main, 2024
