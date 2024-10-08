@@ -39,7 +39,7 @@ IEEE International Conference on Data Mining (ICDM), 2024
 
 ---
 
-***"Federated Graph Learning with Graphless Clients*** <br>
+***Federated Graph Learning with Graphless Clients*** <br>
 Xingbo Fu, **Song Wang**, Yushun Dong, Binchi Zhang, Chen Chen, Jundong Li <br>
 TMLR, 2024
 
