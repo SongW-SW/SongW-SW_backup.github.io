@@ -26,6 +26,18 @@ NeurIPS, 2024
 
 ---
 
+***CEB: Compositional Evaluation Benchmark for Fairness in Large Language Models***  [[PDF file]](https://arxiv.org/pdf/2407.02408) <br>
+**Song Wang\***, Peng Wang\*, Tong Zhou, Yushun Dong, Zhen Tan, Jundong Li <br>
+NeurIPS Socially Responsible Language Modelling Research (SoLaR) WorkShop, 2024
+
+---
+
+***On Demonstration Selection for Improving Fairness in Language Models*** <br>
+**Song Wang\***, Peng Wang, Yushun Dong, Tong Zhou, Lu Cheng, Yangfeng Ji, Jundong Li  <br>
+NeurIPS Socially Responsible Language Modelling Research (SoLaR) WorkShop, 2024
+
+---
+
 
 ***Knowledge Editing for Large Language Models: A Survey*** [[PDF file]](https://arxiv.org/abs/2310.16218v4) <br>
 **Song Wang**, Yaochen Zhu, Haochen Liu, Zaiyi Zheng, Chen Chen, Jundong Li <br>
@@ -54,12 +66,6 @@ EMNLP Main, 2024
 ***Large Language Models for Data Annotation: A Survey*** [[PDF file]](https://arxiv.org/abs/2402.13446) <br>
 Zhen Tan\*, Dawei Li\*, **Song Wang\***, Alimohammad Beigi, Bohan Jiang, Amrita Bhattacharjee, Mansooreh Karami, Jundong Li, Lu Cheng, Huan Liu <br>
 EMNLP Main, 2024
-
----
-
-***CEB: Compositional Evaluation Benchmark for Fairness in Large Language Models***  [[PDF file]](https://arxiv.org/pdf/2407.02408) <br>
-**Song Wang\***, Peng Wang\*, Tong Zhou, Yushun Dong, Zhen Tan, Jundong Li <br>
-Arxiv, 2024
 
 ---
 
