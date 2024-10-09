@@ -33,7 +33,7 @@ NeurIPS Socially Responsible Language Modelling Research (SoLaR) WorkShop, 2024
 ---
 
 ***On Demonstration Selection for Improving Fairness in Language Models*** <br>
-**Song Wang\***, Peng Wang, Yushun Dong, Tong Zhou, Lu Cheng, Yangfeng Ji, Jundong Li  <br>
+**Song Wang**, Peng Wang, Yushun Dong, Tong Zhou, Lu Cheng, Yangfeng Ji, Jundong Li  <br>
 NeurIPS Socially Responsible Language Modelling Research (SoLaR) WorkShop, 2024
 
 ---
