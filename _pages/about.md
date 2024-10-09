@@ -28,7 +28,7 @@ NeurIPS, 2024
 
 ***CEB: Compositional Evaluation Benchmark for Fairness in Large Language Models***  [[PDF file]](https://arxiv.org/pdf/2407.02408) <br>
 **Song Wang\***, Peng Wang\*, Tong Zhou, Yushun Dong, Zhen Tan, Jundong Li <br>
-NeurIPS Socially Responsible Language Modelling Research (SoLaR) Workshop, 2024
+NeurIPS Socially Responsible Language Modelling Research (SoLaR) Workshop Spotlight, 2024
 
 ---
 
