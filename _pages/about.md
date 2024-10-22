@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a fifth-year Ph.D. student at the Department of Electrical and Computer Engineering at the University of Virginia, advised by Professor Jundong Li. Previously I received my B.E. in Electronic Engineering from Tsinghua University in 2020.
+I am currently a fifth-year Ph.D. student at the Department of Electrical and Computer Engineering at the University of Virginia, advised by Professor Jundong Li. Previously I received my B.E. in Electronic Engineering from Tsinghua University in 2020, with my diploma thesis advisor Prof. Ji Wu.
 
 My research interests expand to encompass trustworthy solutions across various types of data, including graphs, knowledge bases, and text.
 
