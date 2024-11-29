@@ -1,87 +1,252 @@
 ---
 permalink: /
-title: "Song Wang's Academic Website"
+title: "Bio"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-# About Me
+I am currently a fifth-year Ph.D. student at the Department of Electrical and Computer Engineering at the University of Virginia, advised by Prof. Jundong Li. Previously I received my B.E. in Electronic Engineering from Tsinghua University in 2020, with my diploma thesis advisor Prof. Ji Wu.
 
-I am currently a fifth-year Ph.D. student in the **Department of Electrical and Computer Engineering** at the **University of Virginia**, where I am advised by **Prof. Jundong Li**. Before joining UVA, I earned my B.E. in **Electronic Engineering** from **Tsinghua University** in 2020, where my diploma thesis was advised by **Prof. Ji Wu**.
+My research interests expand to encompass trustworthy solutions across various types of data, including graphs, knowledge bases, and text.
 
-My research lies at the intersection of **Machine Learning** and **Artificial Intelligence**, focusing on **Generalizable Machine Learning (GML)** and its applications in **trustworthy AI solutions**. My work spans diverse data modalities, including **graphs**, **knowledge bases**, and **text**, with the aim of ensuring fairness, interpretability, and efficiency in AI systems.
 
-🔍 My research philosophy centers on building models that **generalize** effectively across diverse and unseen scenarios, while addressing critical concerns like **bias mitigation**, **data efficiency**, and **trustworthiness**. 
 
-🤝 **Looking for collaborations and opportunities to work on impactful projects!**
+Publication
+======
+
+2024
+---
+
+***Mixture of Demonstrations for In-Context Learning*** <br>
+**Song Wang\***, Zihan Chen\*, Chengshuai Shi, Cong Shen, Jundong Li <br>
+NeurIPS, 2024
 
 ---
 
-# Research Interests
-
-My research aims to tackle real-world challenges in **Generalizable Machine Learning (GML)** and **Trustworthy AI**, focusing on the following:
-
-- **Generalization with Minimal Labeled Data**: Designing frameworks for few-shot learning, meta-learning, and task-adaptive model generalization.
-- **Robust Learning with Noisy and Unlabeled Data**: Leveraging weak supervision to enhance model robustness across tasks.
-- **Fairness and Interpretability in AI**: Developing fairness-aware GML frameworks and interpretable AI methods for socially impactful applications.
+***CEB: Compositional Evaluation Benchmark for Fairness in Large Language Models***  [[PDF file]](https://arxiv.org/pdf/2407.02408) <br>
+**Song Wang\***, Peng Wang\*, Tong Zhou, Yushun Dong, Zhen Tan, Jundong Li <br>
+NeurIPS Socially Responsible Language Modelling Research (SoLaR) Workshop, 2024
 
 ---
 
-# 🔥 News and Updates
-
-- *2024.09*: &nbsp;🎉 One paper, **"Mixture of Demonstrations for In-Context Learning,"** is accepted at **NeurIPS 2024**! 
-- *2024.09*: &nbsp;🎉 Published **"Enhancing Distribution and Label Consistency for Graph Out-of-Distribution Generalization"** at **ICDM 2024**.
-- *2024.08*: &nbsp;🎉 One paper on **Fairness in Large Language Models** is accepted at **NeurIPS SoLaR Spotlight**!
-- *2024.07*: &nbsp;🎉 Honored to co-author **"Knowledge Editing for Large Language Models: A Survey,"** accepted at **ACM Computing Surveys**.
-- *2024.03*: &nbsp;🎉 One paper, **"Federated Graph Learning with Graphless Clients,"** is accepted at **TMLR 2024**.
-
----
-
-# 📝 Publications
-
-### **2024**
-- **NeurIPS**: *Mixture of Demonstrations for In-Context Learning*  
-  **Song Wang**, Zihan Chen, Chengshuai Shi, Cong Shen, Jundong Li.  
-
-- **ACM Computing Surveys**: *Knowledge Editing for Large Language Models: A Survey*  
-  **Song Wang**, Yaochen Zhu, Haochen Liu, Zaiyi Zheng, Chen Chen, Jundong Li.  
-
-- **ICDM**: *Enhancing Distribution and Label Consistency for Graph Out-of-Distribution Generalization*  
-  **Song Wang**, Xiaodong Yang, Rashidul Islam, Huiyuan Chen, Minghua Xu, Jundong Li, Yiwei Cai.  
-
-- **NeurIPS SoLaR Spotlight**: *On Demonstration Selection for Improving Fairness in Language Models*  
-  **Song Wang**, Peng Wang, Yushun Dong, Tong Zhou, Lu Cheng, Yangfeng Ji, Jundong Li.  
-
-- **ACL Findings**: *FastGAS: Fast Graph-based Annotation Selection for In-Context Learning*  
-  Zihan Chen, **Song Wang**, Cong Shen, Jundong Li.  
-
-[View Full Publication List](#)
+***On Demonstration Selection for Improving Fairness in Language Models*** <br>
+**Song Wang**, Peng Wang, Yushun Dong, Tong Zhou, Lu Cheng, Yangfeng Ji, Jundong Li  <br>
+NeurIPS Socially Responsible Language Modelling Research (SoLaR) Workshop Spotlight, 2024
 
 ---
 
 
-# 📖 Education
-
-- **University of Virginia**: Ph.D. in Electrical and Computer Engineering (2020-Present)  
-- **Tsinghua University**: B.E. in Electronic Engineering (2016-2020)  
-
----
-
-# 💁 Service and Volunteering
-
-- Conference Reviewer: NeurIPS, ICML, ACL, SIGKDD, NAACL, EMNLP.  
-- Mentorship: Directly supervised 6 undergraduate and graduate students, many of whom have published at top venues like **NAACL** and **NeurIPS**.  
+***Knowledge Editing for Large Language Models: A Survey*** [[PDF file]](https://arxiv.org/abs/2310.16218v4) <br>
+**Song Wang**, Yaochen Zhu, Haochen Liu, Zaiyi Zheng, Chen Chen, Jundong Li <br>
+ACM Computing Surveys, 2024
 
 ---
 
-# 🎨 Hobbies and Interests
-Beyond research, I enjoy:  
-🎤 **Singing and playing music** (piano, guitar).  
-🎮 **Esports and gaming**, especially competitive League of Legends.  
-🌟 Exploring innovative applications of AI for social good.
+***Enhancing Distribution and Label Consistency for Graph Out-of-Distribution Generalization*** <br>
+**Song Wang**, Xiaodong Yang, Rashidul Islam, Huiyuan Chen, Minghua Xu, Jundong Li, Yiwei Cai <br>
+IEEE International Conference on Data Mining (ICDM), 2024
 
 ---
 
-Feel free to contact me for collaborations, research discussions, or just to connect!  
+***Federated Graph Learning with Graphless Clients*** <br>
+Xingbo Fu, **Song Wang**, Yushun Dong, Binchi Zhang, Chen Chen, Jundong Li <br>
+TMLR, 2024
+
+---
+
+***"Glue pizza and eat rocks" - Exploiting Vulnerabilities in Retrieval-Augmented Generative Models*** <br>
+Zhen Tan, Chengshuai Zhao, Raha Moraffah, Yifan Li, **Song Wang**, Jundong Li, Tianlong Chen, Huan Liu <br>
+EMNLP Main, 2024
+
+---
+
+***Large Language Models for Data Annotation: A Survey*** [[PDF file]](https://arxiv.org/abs/2402.13446) <br>
+Zhen Tan\*, Dawei Li\*, **Song Wang\***, Alimohammad Beigi, Bohan Jiang, Amrita Bhattacharjee, Mansooreh Karami, Jundong Li, Lu Cheng, Huan Liu <br>
+EMNLP Main, 2024
+
+---
+
+***Understanding and Modeling Job Marketplace with Pretrained Language Models*** <br>
+Yaochen Zhu, Liang Wu, Binchi Zhang, **Song Wang**, Qi Guo, Liangjie Hong, Luke Simon, Jundong Li <br>
+CIKM Applied Research Track, 2024
+
+---
+
+***Interpreting Pretrained Language Models via Concept Bottlenecks*** <br>
+Zhen Tan, Lu Cheng, **Song Wang**, Bo Yuan, Jundong Li, Huan Liu <br>
+The Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), 2024 <br>
+<span style="color: red;">**Best Paper Award**</span>
+
+---
+
+***Knowledge Graph-Enhanced Large Language Models via Path Selection*** <br>
+Haochen Liu, **Song Wang**, Yaochen Zhu, Yushun Dong, Jundong Li <br>
+ACL 2024 Findings, 2024
+
+---
+
+***FastGAS: Fast Graph-based Annotation Selection for In-Context Learning*** <br>
+Zihan Chen, **Song Wang**, Cong Shen, Jundong Li <br>
+ACL 2024 Findings, 2024
+
+
+---
+
+***A Benchmark for Fairness-Aware Graph Learning*** <br>
+Yushun Dong, **Song Wang**, Zhenyu Lei, Zaiyi Zheng, Jing Ma, Chen Chen, Jundong Li <br>
+Arxiv, 2024
+
+---
+
+***Graph Learning for Particle Accelerator Operations*** <br>
+**Song Wang**, Chris Tennant, Daniel Moser, Theo Larrieu, Jundong Li <br>
+Frontiers in Big Data, Section Data Mining and Management, 2024
+
+---
+
+***Few-shot Knowledge Graph Relational Reasoning via Subgraph Adaptation*** <br>
+Haochen Liu, **Song Wang**, Chen Chen, Jundong Li <br>
+NAACL, 2024
+
+---
+
+
+***Learning Hierarchical Task Structures for Few-shot Graph Classification*** [[PDF file]](https://dl.acm.org/doi/full/10.1145/3635473) <br>
+**Song Wang**, Yushun Dong, Xiao Huang, Chen Chen, Jundong Li <br>
+ACM Transactions on Knowledge Discovery from Data (TKDD), 2024
+
+---
+
+
+***PyGDebias: A Python Library for Debiasing in Graph Learning*** <br>
+Yushun Dong, Zhenyu Lei, Zaiyi Zheng, **Song Wang**, Jing Ma, Alex Jing Huang, Chen Chen and Jundong Li <br>
+The Web Conference (WWW) Demo Track, 2024
+
+---
+
+
+2023
+---
+
+
+
+***Generative Few-shot Graph Classification: An Adaptive Perspective***  <br>
+**Song Wang**, Jundong Li, <br>
+The Asilomar Conference on Signals, Systems, and Computers, 2023
+
+
+---
+
+
+***Noise-Robust Fine-Tuning of Pretrained Language Models via External Guidance*** <br>
+**Song Wang**, Zhen Tan, Ruocheng Guo, Jundong Li <br>
+EMNLP Findings, 2023
+
+---
+
+
+***Fair Few-shot Learning with Auxiliary Sets*** <br>
+**Song Wang**, Jing Ma, Lu Cheng, Jundong Li <br>
+European Conference on Artificial Intelligence (ECAI), 2023
+
+---
+
+
+***Federated Few-shot Learning*** [[PDF file]](https://arxiv.org/pdf/2306.10234.pdf) <br>
+**Song Wang**, Xingbo Fu, Kaize Ding, Chen Chen, Huiyuan Chen, Jundong Li <br>
+ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD), 2023
+
+---
+
+
+***Contrastive Meta-Learning for Few-shot Node Classification*** [[PDF file]](https://arxiv.org/pdf/2306.15154.pdf) <br>
+**Song Wang\***, Zhen Tan\*, Huan Liu, Jundong Li <br>
+ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD), 2023
+
+---
+
+
+***Fairness in Graph Mining: A Survey*** [[PDF file]](https://arxiv.org/pdf/2204.09888.pdf) <br> 
+Yushun Dong, Jing Ma, **Song Wang**, Chen Chen, Jundong Li <br>
+IEEE Transactions on Knowledge and Data Engineering (TKDE), 2023
+
+---
+
+
+***Few-shot Node Classification with Extremely Weak Supervision*** [[PDF file]](https://arxiv.org/pdf/2301.02708.pdf) <br> 
+**Song Wang**, Yushun Dong, Kaize Ding, Chen Chen, Jundong Li <br>
+ACM International Conference on Web Search and Data Mining  (WSDM), 2023
+
+---
+
+
+***Interpreting Unfairness in Graph Neural Networks via Training Node Attribution*** [[PDF file]](https://arxiv.org/pdf/2211.14383.pdf) <br> 
+Yushun Dong, **Song Wang**, Jing Ma, Ninghao Liu, Jundong Li <br>
+Association for the Advancement of Artificial Intelligence (AAAI), 2023
+
+---
+
+2022
+---
+
+
+
+***Transductive Linear Probing: A Novel Framework for Few-Shot Node Classification*** [[PDF file]](https://arxiv.org/pdf/2212.05606.pdf) <br>
+Zhen Tan\*, **Song Wang\***, Kaie Ding\*, Jundong Li, Huan Liu <br>
+Learning on Graphs Conference (LoG) Oral Spotlight, 2022
+
+---
+
+
+***Graph Few-shot Learning with Task-specific Structures*** [[PDF file]](https://arxiv.org/pdf/2210.12130.pdf) <br> 
+**Song Wang**, Chen Chen, Jundong Li <br>
+Advances in Neural Information Processing Systems (NeurIPS), 2022
+
+---
+
+
+***Task-Adaptive Few-shot Node Classification*** [[PDF file]](https://arxiv.org/pdf/2206.11972.pdf)  [[Code]](https://github.com/SongW-SW/TENT) <br> 
+**Song Wang**, Kaize Ding, Chuxu Zhang, Chen Chen, Jundong Li <br>
+ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD), 2022
+
+---
+
+
+***On Structural Explanation of Bias in Graph Neural Networks*** [[PDF file]](https://arxiv.org/pdf/2206.12104.pdf) <br> 
+Yushun Dong, **Song Wang**, Yu Wang, Tyler Derr, Jundong Li <br>
+ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD), 2022
+
+---
+
+
+***FAITH: Few-Shot Graph Classification with Hierarchical Task Graphs*** [[PDF file]](https://arxiv.org/pdf/2205.02435.pdf)  [[Code]](https://github.com/SongW-SW/FAITH) <br> 
+**Song Wang**, Yushun Dong, Xiao Huang, Chen Chen, Jundong Li <br>
+International Joint Conference on Artificial Intelligence (IJCAI), 2022
+
+---
+
+
+***Recognizing Medical Search Query Intent by Few-shot Learning*** <br>
+Yaqing Wang\*, **Song Wang\***, Yanyan Li, Dejing Dou <br>
+ACM Special Interest Group in Information Retrieval (SIGIR), 2022
+
+---
+
+2021
+---
+
+
+
+***Hierarchical Heterogeneous Graph Representation Learning for Short Text Classification*** [[PDF file]](https://arxiv.org/pdf/2111.00180.pdf) <br>
+Yaqing Wang, **Song Wang**, Quanming Yao, Dejing Dou<br>
+Conference on Empirical Methods in Natural Language Processing (EMNLP), 2021
+
+---
+
+
+***REFORM: Error-Aware Few-Shot Knowledge Graph Completion*** [[PDF file]](https://songw-sw.github.io/REFORM.pdf)  [[Code]](https://github.com/SongW-SW/REFORM) <br>
+**Song Wang**, Xiao Huang, Chen Chen, Liang Wu, Jundong Li <br>
+ACM International Conference on Information and Knowledge Management (CIKM), 2021
